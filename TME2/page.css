@@ -36,8 +36,7 @@ img{
     justify-content: center;
     align-items: center;
     width: 50%;
-    background-color: green;
-    color: #fff;
+    color: "black";
 }
 
 #connexion{
@@ -57,7 +56,6 @@ main{
     width: 100%;
     height: 600px;
     flex-direction: row;
-    background-color: bisque;
 }
 
 aside{
@@ -69,8 +67,7 @@ aside{
 
 section{
     display: flex;
-    background-color: #16dc30;
-    color: #fff;
+    color: "black";
     width: 80%;
     flex-direction: column;
 
@@ -78,8 +75,7 @@ section{
 
 article{
     display: flex;
-    background-color: #cd1577;
-    color: #fff;
+    color: "black";
     height: 450px;
 }
   
@@ -113,7 +109,6 @@ float: right;
 
 #new_comment{
     display: flex;
-    background-color: #bfec0d;
-    color: #fff;
+    color: "black";
     height: 150px;
 }
